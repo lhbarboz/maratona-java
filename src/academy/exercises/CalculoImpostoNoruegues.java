@@ -21,8 +21,8 @@ public class CalculoImpostoNoruegues {
         } else if (salario > 68507){
             imposto = "49.5%";
             taxa = 0.495;
-        } else{
-            imposto =  "Salário inválido!";
+        } else {
+            imposto = "Salário inválido!";
         }
 
         double calculoTaxa = salario * taxa;
