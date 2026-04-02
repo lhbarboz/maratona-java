@@ -3,7 +3,7 @@ package academy.exercises;
 import java.util.Scanner;
 
 // Dado um determinado salario noruegues, quanto deve se pagar de taxa de imposto?
-public class CalculoImpostoNoruegues {
+public class Class05CalculoImpostoNoruegues {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
