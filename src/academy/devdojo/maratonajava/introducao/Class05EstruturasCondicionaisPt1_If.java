@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 // if
 
-public class Class05EstruturasCondicionaisPt1 {
+public class Class05EstruturasCondicionaisPt1_If {
     public static void main(String[] args) {
         int x = 2;
         int y = 5;

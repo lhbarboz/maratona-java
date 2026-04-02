@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Class06EstrutrasDeRepeticao {
+public class Class06EstruturasDeRepeticao {
     public static void main(String[] args) {
         int contador= 0;
 

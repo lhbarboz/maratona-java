@@ -4,7 +4,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import java.util.Scanner;
 
-public class Class05EstruturasCondicionaisPt3 {
+public class Class05EstruturasCondicionaisPt3_Operador_Ternario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         //comprar se salario > 5000
